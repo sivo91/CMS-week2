@@ -1,0 +1,38 @@
+[
+  {
+    "id":1,
+    "title": "Snow",
+    "content": "content here1",
+    "img": "/husky1.jpg",
+    "age": 2,
+    "gender": "male",
+    "born": "Alaska"
+  },
+  {
+    "id":2,
+    "title": "Maya",
+    "content": "content here2",
+    "img": "/husky.jpg",
+    "age": 3,
+    "gender": "female",
+    "born": "South Dakota"
+  },
+  {
+    "id":3,
+    "title": "Max",
+    "content": "content here3",
+    "img": "/dog2.png",
+    "age": 1,
+    "gender": "male",
+    "born": "Hawaii"
+  },
+  {
+    "id":4,
+    "title": "Shadow",
+    "content": "content here4",
+    "img": "/dog1.jpg",
+    "age": 2.5,
+    "gender": "male",
+    "born": "Colorado"
+  }
+]
